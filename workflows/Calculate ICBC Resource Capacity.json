@@ -286,6 +286,7 @@
     "templateCredsSetupCompleted": true
   },
   "name": "Calculate ICBC Resource Capacity",
+  "nodeGroups": [],
   "nodes": [
     {
       "parameters": {},
