@@ -488,6 +488,7 @@
     "templateCredsSetupCompleted": true
   },
   "name": "Cover letter Analysis",
+  "nodeGroups": [],
   "nodes": [
     {
       "parameters": {
