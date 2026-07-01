@@ -1182,6 +1182,7 @@
     "templateCredsSetupCompleted": true
   },
   "name": "Download Images from RENNIE site",
+  "nodeGroups": [],
   "nodes": [
     {
       "parameters": {
