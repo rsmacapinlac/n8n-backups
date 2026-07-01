@@ -124,6 +124,7 @@
     "templateCredsSetupCompleted": true
   },
   "name": "List Files in NextCloud Inbox",
+  "nodeGroups": [],
   "nodes": [
     {
       "parameters": {
