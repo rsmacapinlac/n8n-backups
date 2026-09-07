@@ -1,8 +1,6 @@
 {
   "active": true,
   "activeVersion": {
-    "updatedAt": "2026-01-09T15:16:09.000Z",
-    "createdAt": "2026-01-05T14:09:22.614Z",
     "versionId": "39207c7c-22d8-452c-bc9b-349117e1dc42",
     "workflowId": "4zkqf2YbVTknssVP",
     "nodes": [
@@ -495,7 +493,9 @@
     "authors": "Ritchie Macapinlac",
     "name": "Version 39207c7c",
     "description": "",
-    "autosaved": false
+    "autosaved": false,
+    "createdAt": "2026-01-05T14:09:22.614Z",
+    "updatedAt": "2026-01-09T15:16:09.000Z"
   },
   "activeVersionId": "39207c7c-22d8-452c-bc9b-349117e1dc42",
   "connections": {
@@ -1006,20 +1006,20 @@
   "settings": {},
   "shared": [
     {
-      "updatedAt": "2024-10-25T05:38:26.082Z",
-      "createdAt": "2024-10-25T05:38:26.082Z",
       "role": "workflow:owner",
       "workflowId": "4zkqf2YbVTknssVP",
-      "projectId": "rkuUtfbV4pRJvn4a"
+      "projectId": "rkuUtfbV4pRJvn4a",
+      "createdAt": "2024-10-25T05:38:26.082Z",
+      "updatedAt": "2024-10-25T05:38:26.082Z"
     }
   ],
   "staticData": null,
   "tags": [
     {
-      "updatedAt": "2024-10-21T01:31:06.740Z",
-      "createdAt": "2024-10-21T01:31:06.740Z",
       "id": "IvxaDJAqZrWQAVKk",
-      "name": "production"
+      "name": "production",
+      "createdAt": "2024-10-21T01:31:06.740Z",
+      "updatedAt": "2024-10-21T01:31:06.740Z"
     }
   ],
   "triggerCount": 1,
