@@ -1003,7 +1003,9 @@
       }
     ]
   },
-  "settings": {},
+  "settings": {
+    "availableInMCP": true
+  },
   "shared": [
     {
       "role": "workflow:owner",
@@ -1023,6 +1025,6 @@
     }
   ],
   "triggerCount": 1,
-  "updatedAt": "2026-01-05T14:09:22.612Z",
+  "updatedAt": "2026-10-09T13:10:47.817Z",
   "versionId": "39207c7c-22d8-452c-bc9b-349117e1dc42"
 }
