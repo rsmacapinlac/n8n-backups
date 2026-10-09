@@ -748,7 +748,8 @@
   ],
   "pinData": {},
   "settings": {
-    "executionOrder": "v1"
+    "executionOrder": "v1",
+    "availableInMCP": true
   },
   "shared": [
     {
@@ -769,6 +770,6 @@
     }
   ],
   "triggerCount": 0,
-  "updatedAt": "2024-10-25T14:55:22.559Z",
+  "updatedAt": "2026-10-09T13:10:47.817Z",
   "versionId": "471951ac-d556-4641-9eac-ef7c8c72142f"
 }
